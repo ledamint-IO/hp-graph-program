@@ -1,5 +1,5 @@
-import { ACCOUNT_DISCRIMINATOR_SIZE, web3 } from "@project-serum/anchor";
-import * as anchor from "@project-serum/anchor";
+import { ACCOUNT_DISCRIMINATOR_SIZE, web3 } from "@j0nnyboi/anchor";
+import * as anchor from "@j0nnyboi/anchor";
 import { GraphProgram } from "../../target/types/graph_program";
 
 export const getProgramAccountsFrom = (

@@ -1,4 +1,4 @@
-import * as anchor from "@project-serum/anchor";
+import * as anchor from "@j0nnyboi/anchor";
 import fs from "fs/promises";
 
 export const getWallet = async (keyPairFile: string) => {

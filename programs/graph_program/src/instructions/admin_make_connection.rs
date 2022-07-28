@@ -2,7 +2,7 @@ use crate::{constants::*, state::ConnectionV2};
 
 use anchor_lang::prelude::*;
 
-const ADMIN_PUBKEY: &str = "hoLa3t1FsYMyQJTiFnoJ8HWuvMhSVuR8jXtxRRsVrNp";
+const ADMIN_PUBKEY: &str = "JoNVxV8vwBdHqLJ2FT4meLupYKUVVDYr1Pm4DJUp8cZ";
 
 #[derive(Accounts)]
 #[instruction(from: Pubkey, to: Pubkey)]

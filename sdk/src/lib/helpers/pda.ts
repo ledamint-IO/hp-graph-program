@@ -1,4 +1,4 @@
-import { web3 } from "@project-serum/anchor";
+import { web3 } from "@j0nnyboi/anchor";
 import { b } from "./string";
 import { PROGRAM_ID } from "../../program";
 

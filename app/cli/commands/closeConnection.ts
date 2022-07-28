@@ -1,4 +1,4 @@
-import * as anchor from "@project-serum/anchor";
+import * as anchor from "@j0nnyboi/anchor";
 import { Program, Helpers } from "@holaplex/graph-program";
 import { getWallet } from "../tools/wallet.js";
 

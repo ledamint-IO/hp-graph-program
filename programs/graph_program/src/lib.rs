@@ -6,7 +6,7 @@ use anchor_lang::prelude::*;
 
 use instructions::*;
 
-declare_id!("grphAFGNvCjLKHeEmPNa91eGJChcUhrdaYYharcZCTQ");
+declare_id!("GrPHw4qAadztUYJBtzvLAhiv6oZKCVDLH2cctwKehEKq");
 
 #[program]
 pub mod graph_program {
